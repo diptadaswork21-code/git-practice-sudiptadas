@@ -1,8 +1,23 @@
+
 # Git Practice Project
 
+## Student Information
 **Name:** Sudipta Das
 
-## Project Description
-This project is created to practice Git and GitHub.
-It contains a simple Python program that prints
-my name and today's date.
+## Project Overview
+This project demonstrates basic Git and GitHub operations.
+
+## Features
+- Displays the student's name
+- Displays today's date
+- Performs basic calculator operations
+
+## Technologies Used
+- Python
+- Git
+- GitHub
+
+## Project Structure
+- src/ - Python source code
+- docs/ - Project documentation
+- README.md - Project information
